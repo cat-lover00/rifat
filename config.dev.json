@@ -27,7 +27,7 @@
   "nickNameBot": "Rifat-V2",
   "prefix": "/",
   "database": {
-    "type": "mongodb",
+    "type": "sqlite",
     "uriMongodb": "mongodb://atlas-sql-67bf66c8b7d8ac488485d837-us3fz.a.query.mongodb.net/Rifat?ssl=true&authSource=admin",
     "autoSyncWhenStart": false,
     "autoRefreshThreadInfoFirstTime": true,
